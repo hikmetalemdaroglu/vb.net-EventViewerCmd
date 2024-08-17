@@ -1,0 +1,11 @@
+D:\LiberKey\MyDocuments\source\repos\EventViewerCmd\EventViewerCmd\bin\Debug\EventViewerCmd.exe.config
+D:\LiberKey\MyDocuments\source\repos\EventViewerCmd\EventViewerCmd\bin\Debug\EventViewerCmd.exe
+D:\LiberKey\MyDocuments\source\repos\EventViewerCmd\EventViewerCmd\bin\Debug\EventViewerCmd.pdb
+D:\LiberKey\MyDocuments\source\repos\EventViewerCmd\EventViewerCmd\bin\Debug\EventViewerCmd.xml
+D:\LiberKey\MyDocuments\source\repos\EventViewerCmd\EventViewerCmd\obj\Debug\EventViewerCmd.vbproj.AssemblyReference.cache
+D:\LiberKey\MyDocuments\source\repos\EventViewerCmd\EventViewerCmd\obj\Debug\EventViewerCmd.Resources.resources
+D:\LiberKey\MyDocuments\source\repos\EventViewerCmd\EventViewerCmd\obj\Debug\EventViewerCmd.vbproj.GenerateResource.cache
+D:\LiberKey\MyDocuments\source\repos\EventViewerCmd\EventViewerCmd\obj\Debug\EventViewerCmd.vbproj.CoreCompileInputs.cache
+D:\LiberKey\MyDocuments\source\repos\EventViewerCmd\EventViewerCmd\obj\Debug\EventViewerCmd.exe
+D:\LiberKey\MyDocuments\source\repos\EventViewerCmd\EventViewerCmd\obj\Debug\EventViewerCmd.xml
+D:\LiberKey\MyDocuments\source\repos\EventViewerCmd\EventViewerCmd\obj\Debug\EventViewerCmd.pdb
